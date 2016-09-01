@@ -11,7 +11,7 @@ the Database contains tables called Customer and Project.
         install SQLITE for windows Runtime(Windows 8.1)
  Then run the project using Solution platform x86.
         
-# Customer table contains 
+#Customer table contains 
 primary key int Id 
         string Name 
         string City
