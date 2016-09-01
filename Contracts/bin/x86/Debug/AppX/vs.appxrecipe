@@ -34,7 +34,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Dapo Oloruntola\Desktop\Contracts\Contracts\bin\x86\Debug\Contracts.exe">
       <PackagePath>Contracts.exe</PackagePath>
-      <Modified>2016-08-27T02:54:39.103</Modified>
+      <Modified>2016-09-01T03:00:59.320</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\SQLite.WinRT81\3.13.0\Redist\Debug\x86\sqlite3.dll">
       <PackagePath>sqlite3.dll</PackagePath>
@@ -66,7 +66,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dapo Oloruntola\Desktop\Contracts\Contracts\bin\x86\Debug\Contracts.xr.xml">
       <PackagePath>Contracts.xr.xml</PackagePath>
-      <Modified>2016-08-26T03:23:45.104</Modified>
+      <Modified>2016-09-01T03:00:58.690</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dapo Oloruntola\Desktop\Contracts\Contracts\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
@@ -86,7 +86,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dapo Oloruntola\Desktop\Contracts\Contracts\bin\x86\Debug\Views\MainPage.xbf">
       <PackagePath>Views\MainPage.xbf</PackagePath>
-      <Modified>2016-08-27T02:54:38.300</Modified>
+      <Modified>2016-09-01T03:00:58.722</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dapo Oloruntola\Desktop\Contracts\Contracts\bin\x86\Debug\Views\ProjectPage.xbf">
       <PackagePath>Views\ProjectPage.xbf</PackagePath>

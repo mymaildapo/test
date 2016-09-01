@@ -31,8 +31,7 @@
                   to show details for the current item
         -->
         <Grid x:Name="contentRegion" Margin="-10,130,10,10" Grid.RowSpan="2">
-            <Button x:Name="customers" Content="Create a Customer" HorizontalAlignment="Left" Margin="310,123,0,0" Click="customers_Click" VerticalAlignment="Top"/>
-            <Button Content="pick picture" HorizontalAlignment="Left" Margin="217,262,0,0" VerticalAlignment="Top" Width="436" Click="Save_the_existing_image_click"/>
+            <Button x:Name="customers" Content="Create a Customer" HorizontalAlignment="Left" Margin="610,225,0,0" Click="customers_Click" VerticalAlignment="Top"/>
             <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="655,265,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="234" Height="59"/>
 
         </Grid>
