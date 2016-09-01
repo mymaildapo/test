@@ -20,21 +20,16 @@ string City
 
 string Contact
 
-
-
- ####And Project table contains
  
-Primary key int Id 
+#Customer table contains 
 
-Foreign Key int CustomerId { get; set; }
+primary key int Id 
 
- string Name { get; set; }
+ string Name 
  
-string Description { get; set; }
+string City
 
-DateTime DueDate { get; set; }
-
-So every each Customer there is a project. I used unique foreign key of the project table to add a new project for each customers.
+string Contact
 
  #####To run the project
 
