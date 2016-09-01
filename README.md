@@ -10,17 +10,6 @@ then I query the the data using ling and bind it on Gridviews, TextBlock and Tex
 the Database contains tables called Customer and Project.
 
  
-#And Project table contains 
-
-primary key int Id 
-
- string Name 
- 
-string City
-
-string Contact
-
- 
 #Customer table contains 
 
 primary key int Id 
@@ -31,7 +20,24 @@ string City
 
 string Contact
 
- #####To run the project
+ 
+#And Project table contains 
+
+Primary key int Id 
+
+ Foreign Key int CustomerId { get; set; } 
+ 
+string Name { get; set; }
+
+string Description { get; set; }
+
+DateTime DueDate { get; set; }
+
+So every each Customer there is a project. I used unique foreign key of the project table to add a new project for each customers.
+
+ 
+#To run the project 
+
 
 in Manage NuGet Pakage install sqlite-net v1.0.8
 
