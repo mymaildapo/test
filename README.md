@@ -21,7 +21,7 @@ string City
 string Contact
 
 
- #And Project table contains
+ # And Project table contains
  
 Primary key int Id 
 
@@ -33,7 +33,7 @@ string Description { get; set; }
 
 DateTime DueDate { get; set; }
 
-#So every each Customer there is a project. I used unique foreign key of the project table to add a new project for each customers.
+So every each Customer there is a project. I used unique foreign key of the project table to add a new project for each customers.
 
  #To run the project
 
