@@ -10,7 +10,7 @@ then I query the the data using ling and bind it on Gridviews, TextBlock and Tex
 the Database contains tables called Customer and Project.
 
  
-#Customer table contains 
+#And Project table contains 
 
 primary key int Id 
 
